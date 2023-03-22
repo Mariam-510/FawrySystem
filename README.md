@@ -18,6 +18,7 @@ d. Donations
 i. Cancer Hospital
 ii. Schools
 iii. NGOs (Non profitable organizations)
+
 Requirements
 User 
 1. The user should be able to sign-in to the system. Given the user’s email and a password, the user can login to the system and use any of the system functionalities.
