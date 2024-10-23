@@ -18,9 +18,9 @@ d. Donations
 i. Cancer Hospital
 ii. Schools
 iii. NGOs (Non profitable organizations)
-
+***********************************************************************************************************************************************************
 Requirements
-User 
+User
 1. The user should be able to sign-in to the system. Given the user’s email and a password, the user can login to the system and use any of the system functionalities.
 2. The user should be able to sign up to the system. The user should provide his username, email and password. The system should check if the username or the email is registered before, if they are not registered before then the signup process should complete successfully, if not, the system will show an error to the user
 3. The user should be able to search for any service in the system. The user can type the service name and the system will return all services that match the user query.
@@ -28,7 +28,7 @@ User
 5. The user can ask for a refund for any complete transaction to any given service. The refund request will be issued by the user and sent to the admin. If the admin approves the refund then the refund process should complete successfully. 
 6. The system maintain a wallet balance for each user. The user should be able to add any funds to the wallet. Adding funds to the wallet should be done via credit card.
 7. The user should be able to check any discount for any service in the system. Discounts could be added by the admin (this will be discussed later).
-
+***********************************************************************************************************************************************************
 Admin
 1. The admin should be able to add any new service provider to the system. Provider consists of a form to be sent to the user and a handler for this form. So for example Vodafone Cash provider consists of a form (Mobile number, amount) and a handler for 
 this form (given the user answers to this form then provider will handle the user request). 
